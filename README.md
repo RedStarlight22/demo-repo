@@ -1,3 +1,4 @@
 # Demo
 
-Sample text here
+Sample text here.
+Second sample text.
